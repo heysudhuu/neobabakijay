@@ -36,7 +36,7 @@
 - **Easy 2 use**
 
 
-<a href="https://github.com/ErrorxCode/FkNeo/releases/download/latest/FkNeo.zip"><img alt="Download extention" height=40 src="https://dabuttonfactory.com/button.png?t=Download extention&f=Open+Sans-Bold&ts=25&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=15d798"></a>
+<a href="https://github.com/ErrorxCode/FkNeo/releases/download/2.1/FkNeo.zip"><img alt="Download extention" height=40 src="https://dabuttonfactory.com/button.png?t=Download extention&f=Open+Sans-Bold&ts=25&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=15d798"></a>
 
 ![Github All Releases](https://img.shields.io/github/downloads/ErrorxCode/FkNeo/total?label=Downloads&logo=download)
 
