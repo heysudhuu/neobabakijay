@@ -7,7 +7,7 @@
 <a rel="noreferrer noopener" href="https://microsoftedge.microsoft.com/addons/detail/dark-reader/ifoakfbpdcdoeenechcleahebpibofpc/"><img alt="Edge Addons" src="https://img.shields.io/badge/Edge-141e24.svg?&style=for-the-badge&logo=microsoft-edge&logoColor=white"></a>
 <a el="noreferrer noopener" href="https://addons.thunderbird.net/thunderbird/addon/darkreader"><img alt="Thunderbird" src="https://img.shields.io/badge/Thunderbird-141e24.svg?&style=for-the-badge&logo=thunderbird&logoColor=white"></a>
 
-<h2 align="center">F**K Neo</h2>
+<h2 align="center">Neo Baba Ki Jay</h2>
 <br/>
 <p align="center"><strong>Bypass</strong> all the <strong>NeoCollab/Examly restrictions</strong> to give you freedom in the test. Now copy/paste, switch tab/window etc. Specially designed for the new `iamneo` portal</p>
 <br/>    
@@ -17,7 +17,7 @@
 > [!CAUTION]
 > This project is intended for educational purposes only. The author does not condone or support any form of cheating in exams and is not responsible for any misuse. This is purely a hobby project meant for experimentation and learning.
 
-> Stay updated and get support by following the developer on [Instagram](https://instagram.com/infrared.x).
+> Stay updated and get support by following the developer on [Instagram](https://instagram.com/hey.sudhu).
 
 
 
